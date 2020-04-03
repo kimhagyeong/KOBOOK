@@ -5,6 +5,7 @@
 
 개발 환경 : Atom, Bitnami, Mysql   
 사용 소프트웨어 : PHP, HTML5, CSS, Jquery   
+팀 : 김도호, 이동욱, 최상원, 
 
 
 - 시나리오<img width="1086" alt="스크린샷 2020-04-03 오후 5 24 40" src="https://user-images.githubusercontent.com/31887934/78340014-5b156e80-75d0-11ea-9f54-eb6c8965bd58.png">
